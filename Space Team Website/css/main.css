@@ -2113,8 +2113,7 @@ nav a:hover {
 
 .banner-area {
   position: relative;
-  
-   background: url(../img/LeanFlamboyantDuckbillplatypus-size_restricted.gif) no-repeat center center/cover;
+   background: url(https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
